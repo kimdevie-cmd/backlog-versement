@@ -1,7 +1,6 @@
 # 🧾 Backlog – Versement Libre (VL)
 > Structure par étape, avec variantes fonctionnelles par sous-branche  
 > Couleur = type de variante : 🔵 Nominal | 🟣 Contrat | 🟠 B2B | 🟢 B2C | 🟡 Mix
-
 ---
 
 ## ▶️ Étape : Amount (Montant)
