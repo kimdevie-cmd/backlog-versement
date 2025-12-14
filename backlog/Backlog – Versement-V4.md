@@ -3,7 +3,7 @@
 > Couleur = type de variante : 🔵 Nominal | 🟣 Contrat | 🟠 B2B | 🟢 B2C | 🟡 Mix
 ---
 
-test commit
+
 ## ▶️ Étape : Amount (Montant)
 
 🔵 Nominal  
