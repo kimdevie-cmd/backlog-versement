@@ -7,6 +7,7 @@
 
 ## ▶️ Étape : Amount (Montant)
 
+
 🔵 Nominal  
 - Saisie simple du montant
 
