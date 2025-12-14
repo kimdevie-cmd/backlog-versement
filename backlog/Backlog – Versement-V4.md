@@ -4,7 +4,6 @@
 
 ---
 
-
 ## ▶️ Étape : Amount (Montant)
 
 🔵 Nominal  
